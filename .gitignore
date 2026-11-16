@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+irctc_chrome_profile/
+*.pyc
+config.bat
+node_modules
